@@ -111,7 +111,7 @@ AND o.ID_book = b.ID_book;*/
 #o.ID_Book = b.ID_book;
 
 
-######## LEKCJA WTORKOWA 
+######## LEKCYJA WTORKOWA 
 #SELECT * FROM Book WHERE ID_Book = 4;
 
 #USE Bookstore;
